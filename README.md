@@ -1,4 +1,4 @@
-# Aplicacion Meteorologica
+﻿# Aplicacion Meteorologica
 
 Aplicación que nos muestra informacion del clima
 
@@ -10,3 +10,4 @@ Jose Miguel Barreto Sandoval
 Jose Andred Ortiz Garatejo
 Gilberth Alexis Renteria
 Kenny Yim Romero 
+Jhoan Andrey Parra delgado
