@@ -8,7 +8,7 @@ Este es un trabajo universitario para la meteria Integracion continua, realizado
 
 
 Jose Miguel Barreto Sandoval
-José Andred Ortiz Garatejo
+Jose Andred Ortiz Garatejo
 Gilberth Alexis Renteria
 Kenny Yim Romero 
 Jhoan Andrey Parra Delgado
