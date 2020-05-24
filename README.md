@@ -7,9 +7,8 @@ Aplicación que nos muestra informacion del clima
 Este es un trabajo universitario para la meteria Integracion continua, realizado por : 
 
 
-
 Jose Miguel Barreto Sandoval
-Jose Andred Ortiz Garatejo
+José Andred Ortiz Garatejo
 Gilberth Alexis Renteria
 Kenny Yim Romero 
 Jhoan Andrey Parra Delgado
